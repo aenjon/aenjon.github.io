@@ -1,14 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>http://aenjon.gitee.io/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on 态度的深度</title>
+    <link>http://aenjon.com/tags/</link>
+    <description>Recent content in Tags on 态度的深度</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 18 Dec 2019 21:55:00 +0800</lastBuildDate>
     
-	<atom:link href="http://aenjon.gitee.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://aenjon.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Development</title>
+      <link>http://aenjon.com/tags/Development/</link>
+      <pubDate>Wed, 18 Dec 2019 21:55:00 +0800</pubDate>
+      
+      <guid>http://aenjon.com/tags/Development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>http://aenjon.com/tags/golang/</link>
+      <pubDate>Wed, 18 Dec 2019 21:55:00 +0800</pubDate>
+      
+      <guid>http://aenjon.com/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TestGolang</title>
+      <link>http://aenjon.com/tags/TestGolang/</link>
+      <pubDate>Wed, 18 Dec 2019 21:55:00 +0800</pubDate>
+      
+      <guid>http://aenjon.com/tags/TestGolang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TestTags</title>
+      <link>http://aenjon.com/tags/TestTags/</link>
+      <pubDate>Wed, 18 Dec 2019 21:55:00 +0800</pubDate>
+      
+      <guid>http://aenjon.com/tags/TestTags/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
