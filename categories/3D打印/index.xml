@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3D打印 on 态度的深度</title>
+    <link>http://aenjon.com/categories/3D%E6%89%93%E5%8D%B0/</link>
+    <description>Recent content in 3D打印 on 态度的深度</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 13 Dec 2019 21:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="http://aenjon.com/categories/3D%E6%89%93%E5%8D%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3D技术图谱</title>
+      <link>http://aenjon.com/post/2019-12-13-3d%E6%8A%80%E6%9C%AF%E5%9B%BE%E8%B0%B1/</link>
+      <pubDate>Fri, 13 Dec 2019 21:00:00 +0800</pubDate>
+      
+      <guid>http://aenjon.com/post/2019-12-13-3d%E6%8A%80%E6%9C%AF%E5%9B%BE%E8%B0%B1/</guid>
+      <description>3D常规技术 心法要领 “工科”性质，实战出真知 进阶 模拟需求，操练高精尖 自造 需求与实现，双向纠查 创新 不创新，难出其右</description>
+    </item>
+    
+  </channel>
+</rss>

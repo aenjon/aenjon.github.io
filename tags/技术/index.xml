@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>技术 on 态度的深度</title>
+    <link>http://aenjon.com/tags/%E6%8A%80%E6%9C%AF/</link>
+    <description>Recent content in 技术 on 态度的深度</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 18 Dec 2019 21:55:00 +0800</lastBuildDate>
+    
+	<atom:link href="http://aenjon.com/tags/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TryGet</title>
+      <link>http://aenjon.com/2019/12/18/golang-gin-query-parameters-array-map.html</link>
+      <pubDate>Wed, 18 Dec 2019 21:55:00 +0800</pubDate>
+      
+      <guid>http://aenjon.com/2019/12/18/golang-gin-query-parameters-array-map.html</guid>
+      <description>Try Try to do the impossible, and it will become possible. To try to perform, make, or achieve. Get Get success without hard work, even at a time, also want to more than one hundred times failure misfortune.</description>
+    </item>
+    
+    <item>
+      <title>实战派</title>
+      <link>http://aenjon.com/2019/12/18/%E5%AE%9E%E6%88%98.html</link>
+      <pubDate>Wed, 18 Dec 2019 21:55:00 +0800</pubDate>
+      
+      <guid>http://aenjon.com/2019/12/18/%E5%AE%9E%E6%88%98.html</guid>
+      <description>耳听 耳听为虚，虚为实先。 眼看 一等人看看就会。 手操 动2静8，在实操之前，足够精力完成耕耘。 实战 实践出真知。 口说 “出口见高低”，能高屋建瓴、出其不意的，一定是语出惊人的。</description>
+    </item>
+    
+    <item>
+      <title>3D技术图谱</title>
+      <link>http://aenjon.com/post/2019-12-13-3d%E6%8A%80%E6%9C%AF%E5%9B%BE%E8%B0%B1/</link>
+      <pubDate>Fri, 13 Dec 2019 21:00:00 +0800</pubDate>
+      
+      <guid>http://aenjon.com/post/2019-12-13-3d%E6%8A%80%E6%9C%AF%E5%9B%BE%E8%B0%B1/</guid>
+      <description>3D常规技术 心法要领 “工科”性质，实战出真知 进阶 模拟需求，操练高精尖 自造 需求与实现，双向纠查 创新 不创新，难出其右</description>
+    </item>
+    
+  </channel>
+</rss>

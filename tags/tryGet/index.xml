@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tryGet on 态度的深度</title>
+    <link>http://aenjon.com/tags/tryGet/</link>
+    <description>Recent content in tryGet on 态度的深度</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 18 Dec 2019 21:55:00 +0800</lastBuildDate>
+    
+	<atom:link href="http://aenjon.com/tags/tryGet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TryGet</title>
+      <link>http://aenjon.com/2019/12/18/golang-gin-query-parameters-array-map.html</link>
+      <pubDate>Wed, 18 Dec 2019 21:55:00 +0800</pubDate>
+      
+      <guid>http://aenjon.com/2019/12/18/golang-gin-query-parameters-array-map.html</guid>
+      <description>Try Try to do the impossible, and it will become possible. To try to perform, make, or achieve. Get Get success without hard work, even at a time, also want to more than one hundred times failure misfortune.</description>
+    </item>
+    
+  </channel>
+</rss>

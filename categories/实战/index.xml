@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>实战 on 态度的深度</title>
+    <link>http://aenjon.com/categories/%E5%AE%9E%E6%88%98/</link>
+    <description>Recent content in 实战 on 态度的深度</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 18 Dec 2019 21:55:00 +0800</lastBuildDate>
+    
+	<atom:link href="http://aenjon.com/categories/%E5%AE%9E%E6%88%98/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TryGet</title>
+      <link>http://aenjon.com/2019/12/18/golang-gin-query-parameters-array-map.html</link>
+      <pubDate>Wed, 18 Dec 2019 21:55:00 +0800</pubDate>
+      
+      <guid>http://aenjon.com/2019/12/18/golang-gin-query-parameters-array-map.html</guid>
+      <description>Try Try to do the impossible, and it will become possible. To try to perform, make, or achieve. Get Get success without hard work, even at a time, also want to more than one hundred times failure misfortune.</description>
+    </item>
+    
+    <item>
+      <title>实战派</title>
+      <link>http://aenjon.com/2019/12/18/%E5%AE%9E%E6%88%98.html</link>
+      <pubDate>Wed, 18 Dec 2019 21:55:00 +0800</pubDate>
+      
+      <guid>http://aenjon.com/2019/12/18/%E5%AE%9E%E6%88%98.html</guid>
+      <description>耳听 耳听为虚，虚为实先。 眼看 一等人看看就会。 手操 动2静8，在实操之前，足够精力完成耕耘。 实战 实践出真知。 口说 “出口见高低”，能高屋建瓴、出其不意的，一定是语出惊人的。</description>
+    </item>
+    
+  </channel>
+</rss>
