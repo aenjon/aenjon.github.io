@@ -12,7 +12,6 @@
     
     
     <item>
-<<<<<<< HEAD
       <title>Development</title>
       <link>http://aenjon.com/categories/Development/</link>
       <pubDate>Wed, 18 Dec 2019 21:55:00 +0800</pubDate>
@@ -45,13 +44,6 @@
       <pubDate>Fri, 13 Dec 2019 21:00:00 +0800</pubDate>
       
       <guid>http://aenjon.com/categories/Mathematics/</guid>
-=======
-      <title>Golang</title>
-      <link>http://aenjon.com/categories/Golang/</link>
-      <pubDate>Wed, 18 Dec 2019 21:55:00 +0800</pubDate>
-      
-      <guid>http://aenjon.com/categories/Golang/</guid>
->>>>>>> c3fdf27a89605b3bc9bafa55f902fad9f04748e0
       <description></description>
     </item>
     

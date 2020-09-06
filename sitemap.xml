@@ -8,25 +8,16 @@
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>http://aenjon.com/tags/Development/</loc>
-=======
-    <loc>http://aenjon.com/categories/Golang/</loc>
->>>>>>> c3fdf27a89605b3bc9bafa55f902fad9f04748e0
     <lastmod>2019-12-18T21:55:00+08:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>http://aenjon.com/categories/Development/</loc>
-=======
-    <loc>http://aenjon.com/tags/golang/</loc>
->>>>>>> c3fdf27a89605b3bc9bafa55f902fad9f04748e0
     <lastmod>2019-12-18T21:55:00+08:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>http://aenjon.com/categories/GoLang/</loc>
     <lastmod>2019-12-18T21:55:00+08:00</lastmod>
   </url>
@@ -37,8 +28,6 @@
   </url>
   
   <url>
-=======
->>>>>>> c3fdf27a89605b3bc9bafa55f902fad9f04748e0
     <loc>http://aenjon.com/2019/12/18/golang-gin-query-parameters-array-map.html</loc>
     <lastmod>2019-12-18T21:55:00+08:00</lastmod>
   </url>
@@ -59,7 +48,6 @@
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>http://aenjon.com/tags/TestGolang/</loc>
     <lastmod>2019-12-18T21:55:00+08:00</lastmod>
   </url>
@@ -70,21 +58,16 @@
   </url>
   
   <url>
-=======
->>>>>>> c3fdf27a89605b3bc9bafa55f902fad9f04748e0
     <loc>http://aenjon.com/</loc>
     <lastmod>2019-12-18T21:55:00+08:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>http://aenjon.com/categories/BestPractice/</loc>
     <lastmod>2019-12-13T21:00:00+08:00</lastmod>
   </url>
   
   <url>
-=======
->>>>>>> c3fdf27a89605b3bc9bafa55f902fad9f04748e0
     <loc>http://aenjon.com/post/2019-12-13-golang-gin-parameters-in-path/</loc>
     <lastmod>2019-12-13T21:00:00+08:00</lastmod>
   </url>
@@ -95,16 +78,17 @@
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>http://aenjon.com/categories/Mathematics/</loc>
     <lastmod>2019-12-13T21:00:00+08:00</lastmod>
   </url>
   
   <url>
-=======
->>>>>>> c3fdf27a89605b3bc9bafa55f902fad9f04748e0
     <loc>http://aenjon.com/about/</loc>
     <lastmod>2015-03-10T00:13:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://aenjon.com/category/</loc>
   </url>
   
   <url>
@@ -117,6 +101,10 @@
   
   <url>
     <loc>http://aenjon.com/search/</loc>
+  </url>
+  
+  <url>
+    <loc>http://aenjon.com/tag/</loc>
   </url>
   
   <url>

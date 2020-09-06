@@ -30,11 +30,7 @@
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>Golang Gin 实战（三）| 路由</title>
-=======
-      <title>Golang Gin 实战（三）| 路由参数</title>
->>>>>>> c3fdf27a89605b3bc9bafa55f902fad9f04748e0
       <link>http://aenjon.com/post/2019-12-13-golang-gin-parameters-in-path/</link>
       <pubDate>Fri, 13 Dec 2019 21:00:00 +0800</pubDate>
       
@@ -43,11 +39,7 @@
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>Golang Gin 实战（五）| 参数</title>
-=======
-      <title>Golang Gin 实战（三）| 路由参数</title>
->>>>>>> c3fdf27a89605b3bc9bafa55f902fad9f04748e0
       <link>http://aenjon.com/post/2019-12-15-golang-gin-query-parameters-source-code-analysis/</link>
       <pubDate>Fri, 13 Dec 2019 21:00:00 +0800</pubDate>
       
@@ -62,6 +54,15 @@
       
       <guid>http://aenjon.com/about/</guid>
       <description>公众号，扫码关注</description>
+    </item>
+    
+    <item>
+      <title>分类</title>
+      <link>http://aenjon.com/category/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://aenjon.com/category/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -88,6 +89,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://aenjon.com/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>标签</title>
+      <link>http://aenjon.com/tag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://aenjon.com/tag/</guid>
       <description></description>
     </item>
     
